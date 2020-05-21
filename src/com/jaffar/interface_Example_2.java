@@ -1,4 +1,4 @@
-import java.util.ArrayList;
+
 import java.util.Scanner;
 //This is Example NO 2
 
@@ -176,6 +176,13 @@ class Department_Database_Backend implements Yearly_Employ_Career_Report{//this 
 //class 2
 public class interface_Example_2 {
     public static void main(String[] args) {
+        //This is Example NO 2
+
+        //Interface extends an Interface
+
+        //In this code  one interface is extended by another interface
+
+        System.out.println("This is Example NO 2\n\nInterface extends an Interface\n\nIn this code  one interface is extended by another interface");
         Department_Database_Backend employ = new Department_Database_Backend(1);//new employ intance to give detials of employ and print to main main mthod
     }
 }

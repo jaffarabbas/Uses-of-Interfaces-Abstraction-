@@ -85,6 +85,13 @@ class Department_Database_Backend implements Employ_info{//this is a class that 
 
 class Interface_Example_1 {
    public static void main(String[] args) {
+       //This is Example NO 1
+
+       //Class Implements an Interface
+
+       //In this code only one interface is made and it is implemented by a class only which is named as Department_Database_Backend class
+
+       System.out.println("This is Example NO 1\n\nClass Implements an Interface\n\nIn this code only one interface is made and it is implemented by a class only which is named as Department_Database_Backend class");
        Department_Database_Backend employ = new Department_Database_Backend(1);//new employ intance to give detials of employ and print to main main mthod
    }    
 }

@@ -229,6 +229,13 @@ class Department_Database_Backend implements Speacial_Alounces_To_Top_Emploies{/
 }
 public class interface_Example_3 {
     public static void main(String[] args) {
+        //This is Example NO 3
+
+        //Interface extends more then one Interface
+
+        //In this code  one interface is extended by more then one interface
+
+        System.out.println("This is Example NO 3\n\nInterface extends more then one Interface\n\nIn this code  one interface is extended by more then one interface");   
         Department_Database_Backend employ = new Department_Database_Backend(1);//new employ intance to give detials of employ and print to main main mthod
     }
 }
