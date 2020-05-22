@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b77e191-60b2-4ae1-a420-1aaa4f4cbdbf" name="Default Changelist" comment="" />
+    <list default="true" id="6b77e191-60b2-4ae1-a420-1aaa4f4cbdbf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jaffar/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jaffar/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,17 +54,31 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+<<<<<<< HEAD
     <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1590068977429">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590068977429" />
+=======
+    <state x="420" y="248" key="FileChooserDialogImpl" timestamp="1590052404816">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="420" y="248" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1590052404816" />
+>>>>>>> ebc8d4b2bbd1b1dd97318a99c4f1362818f1998d
     <state x="517" y="281" width="356" height="166" key="Github.CreateGistDialog" timestamp="1588172442293">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="517" y="281" width="356" height="166" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1588172442293" />
+<<<<<<< HEAD
     <state x="65" y="67" key="new project wizard" timestamp="1590069031456">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="65" y="67" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1590069031456" />
+=======
+    <state x="22" y="113" key="new project wizard" timestamp="1590078949541">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="22" y="113" key="new project wizard/0.0.1280.984@0.0.1280.984" timestamp="1590078949541" />
+>>>>>>> ebc8d4b2bbd1b1dd97318a99c4f1362818f1998d
   </component>
 </project>
